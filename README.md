@@ -4,6 +4,8 @@
 
 # Website Template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcobiedermann/website-boilerplate.svg)](https://greenkeeper.io/)
+
 ## Requirements
 
 ## Installation
